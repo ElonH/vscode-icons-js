@@ -35,16 +35,15 @@
   },
   "homepage": "https://github.com/dderevjanik/vscode-icons-js#readme",
   "devDependencies": {
-    "@types/node": "^10.12.24",
-    "@types/node-fetch": "^2.1.6",
-    "jasmine": "^3.3.1",
-    "log4js": "^4.0.2",
-    "node-fetch": "^2.3.0",
-    "prettier": "^1.16.4",
-    "ts-node": "^8.0.2",
-    "typescript": "^3.3.3"
+    "@types/jasmine": "^3.5.10",
+    "@types/node": "^10.17.24",
+    "@types/node-fetch": "^2.5.7",
+    "jasmine": "^3.5.0",
+    "log4js": "^4.5.1",
+    "node-fetch": "^2.6.0",
+    "prettier": "^1.19.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
   },
-  "dependencies": {
-    "@types/jasmine": "^3.3.8"
-  }
+  "dependencies": {}
 }
